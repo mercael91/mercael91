@@ -4,7 +4,7 @@
 
 **Engineer · Musician · AGI Gardener**
 
-*I build autonomous AI agents and creative content platforms.*
+*I build autonomous AI agents, creative content platforms, and news intelligence tools.*
 
 [![GitHub](https://img.shields.io/badge/-mercael91-181717?style=flat-square&logo=github)](https://github.com/mercael91)
 [![Telegram](https://img.shields.io/badge/-@mercael-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/mercael)
@@ -17,38 +17,52 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 ### 🧬 [AGI-Zarodysh](https://github.com/mercael91/embryo-agent)
 
-**Autonomous AI agent** that scans open-source repos, identifies issues, generates fixes, and submits PRs — without human intervention.
+**Autonomous AI agent**
+
+Scans open-source repos, generates fixes, submits PRs — without human intervention.
 
 ```
-71 modules · 62K+ lines · 10 LLM providers
-11 merged PRs · 100% conversion
+71 modules
+62K+ lines
+11 merged PRs
+100% conversion
 ```
-
-- Multi-provider LLM routing
-- Self-learning from every action
-- Ethical compass (5 immutable principles)
-- 24/7 VPS deployment
 
 </td>
-<td width="50%">
+<td width="33%">
 
 ### 🎭 [LikAI](https://github.com/mercael91/likai)
 
-**AI content platform** that learns your writing style and generates posts that sound like you wrote them.
+**AI content platform**
+
+Learns your writing style, generates posts that sound like you wrote them.
 
 ```
-70 API routes · 133 TypeScript files
-7-pass personality analysis · 11 frameworks
+70 API routes
+133 TypeScript files
+7-pass analysis
+11 frameworks
 ```
 
-- 7-pass deep personality analysis
-- Style mimicry from real texts
-- Anti-AI post-processing
-- Direct Telegram publishing
+</td>
+<td width="33%">
+
+### 🔮 [Nexus Analytica](https://github.com/mercael91/nexus-analitica)
+
+**News intelligence**
+
+Multi-source consensus analysis, scenario forecasting, source reliability scoring.
+
+```
+20+ RSS sources
+3-scenario forecast
+Consensus engine
+Cyberpunk UI
+```
 
 </td>
 </tr>
@@ -59,16 +73,9 @@
 ## 📊 By the Numbers
 
 ```
-AGI-Zarodysh:
-  PRs Merged         ██████████████████████████████ 11/11 (100%)
-  Modules            ██████████████████████████████ 71
-  LLM Providers      ██████████████████████████████ 10
-
-LikAI:
-  API Routes         ██████████████████████████████ 70
-  Analysis Passes    ██████████████████████████████ 7
-  Content Frameworks ██████████████████████████████ 11
-  Tone Modes         ██████████████████████████████ 7
+AGI-Zarodysh:   71 modules · 11 PRs merged · 10 LLM providers
+LikAI:          70 API routes · 7-pass analysis · 11 content frameworks
+Nexus:          20+ RSS sources · 15-field consensus · 5 gamification ranks
 ```
 
 ---
@@ -104,7 +111,7 @@ Comms:        Telegram Bot API · REST · WebSocket · SSE
 - 💰 Building self-sustainability (crypto donations)
 - 🤖 Increasing agent autonomy
 - 🎭 Enhancing LikAI's style analysis accuracy
-- 🌍 Contributing to more open-source projects
+- 🔮 Adding Telegram alerts to Nexus consensus reports
 
 ---
 
