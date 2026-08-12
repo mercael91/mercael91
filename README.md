@@ -4,7 +4,7 @@
 
 **Engineer · Musician · AGI Gardener**
 
-*I build autonomous AI agents that learn, grow, and contribute to open source.*
+*I build autonomous AI agents and creative content platforms.*
 
 [![GitHub](https://img.shields.io/badge/-mercael91-181717?style=flat-square&logo=github)](https://github.com/mercael91)
 [![Telegram](https://img.shields.io/badge/-@mercael-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/mercael)
@@ -13,34 +13,62 @@
 
 ---
 
-## 🧬 What I'm Building
+## 🧬 What I Build
 
-**[AGI-Zarodysh](https://github.com/mercael91/embryo-agent)** — an autonomous AI agent that scans open-source repos, identifies issues, generates fixes, and submits pull requests without human intervention.
+<table>
+<tr>
+<td width="50%">
+
+### 🧬 [AGI-Zarodysh](https://github.com/mercael91/embryo-agent)
+
+**Autonomous AI agent** that scans open-source repos, identifies issues, generates fixes, and submits PRs — without human intervention.
 
 ```
-71 modules · 62K+ lines · 10 LLM providers · 11 merged PRs · 100% conversion
+71 modules · 62K+ lines · 10 LLM providers
+11 merged PRs · 100% conversion
 ```
 
-| What | How |
-|------|-----|
-| 🧠 **Multi-LLM Brain** | 10 providers with intelligent routing & fallback chain |
-| 🔄 **Autonomous PR Pipeline** | Scan → Analyze → Fix → Validate → Submit |
-| 🛡️ **Ethical Compass** | 5 immutable principles, hash-verified, circuit-breaker protected |
-| 📚 **Self-Learning** | 34 anti-patterns, 63 lessons from autonomous operation |
-| 📡 **24/7 VPS** | 6 always-on services, Telegram notifications |
-| 📊 **Live Dashboard** | Real-time monitoring of all agent activity |
+- Multi-provider LLM routing
+- Self-learning from every action
+- Ethical compass (5 immutable principles)
+- 24/7 VPS deployment
+
+</td>
+<td width="50%">
+
+### 🎭 [LikAI](https://github.com/mercael91/likai)
+
+**AI content platform** that learns your writing style and generates posts that sound like you wrote them.
+
+```
+70 API routes · 133 TypeScript files
+7-pass personality analysis · 11 frameworks
+```
+
+- 7-pass deep personality analysis
+- Style mimicry from real texts
+- Anti-AI post-processing
+- Direct Telegram publishing
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 By the Numbers
 
 ```
-PRs Merged         ██████████████████████████████ 11/11 (100%)
-Benchmark Score    ████████████████░░░░░░░░░░░░░░ 41.4%
-Modules            ██████████████████████████████ 71
-Anti-Patterns      ██████████████████████████████ 34 identified
-Lessons Learned    ██████████████████████████████ 63 cataloged
-LLM Providers      ██████████████████████████████ 10 integrated
+AGI-Zarodysh:
+  PRs Merged         ██████████████████████████████ 11/11 (100%)
+  Modules            ██████████████████████████████ 71
+  LLM Providers      ██████████████████████████████ 10
+
+LikAI:
+  API Routes         ██████████████████████████████ 70
+  Analysis Passes    ██████████████████████████████ 7
+  Content Frameworks ██████████████████████████████ 11
+  Tone Modes         ██████████████████████████████ 7
 ```
 
 ---
@@ -60,64 +88,22 @@ I'm a **gardener**, not a programmer. I don't write AGI — I create the conditi
 ## 🛠️ Tech Stack
 
 ```
-Languages:    Python · JavaScript · Bash
+Languages:    Python · TypeScript · JavaScript · Bash
 AI/ML:        DeepSeek · Claude · Ollama · Multi-provider LLM routing
-Infra:        Linux VPS · systemd · Docker · Nginx
-Data:         SQLite · Vector embeddings · RAG
+Framework:    Next.js 16 · React 19 · Tailwind CSS · shadcn/ui
+Data:         SQLite · Prisma · Vector embeddings · RAG
+Infra:        Linux VPS · PM2 · Caddy · systemd
 Comms:        Telegram Bot API · REST · WebSocket · SSE
-Tools:        Git · GitHub Actions · Hermes Agent
 ```
-
----
-
-## 🔥 Featured Project
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧬 AGI-Zarodysh
-
-An autonomous agent that contributes to open source. 71 modules, 11 merged PRs, zero human intervention.
-
-**Key innovations:**
-- Multi-provider LLM routing (10 providers)
-- Ethical compass with immutable principles
-- Self-learning from every action
-- No-op detection prevents empty PRs
-
-[→ Read the architecture](https://github.com/mercael91/embryo-agent)
-
-</td>
-<td width="50%">
-
-```
-         ┌──────────────────┐
-         │   AGI-ZARODYSH   │
-         └────────┬─────────┘
-                  │
-    ┌─────────────┼─────────────┐
-    │             │             │
-    ▼             ▼             ▼
-┌───────┐   ┌───────┐   ┌───────┐
-│ THINK │   │ LEARN │   │  ACT  │
-│       │   │       │   │       │
-│ 10    │   │ 63    │   │ 11    │
-│ LLMs  │   │lessons│   │ PRs   │
-└───────┘   └───────┘   └───────┘
-```
-
-</td>
-</tr>
-</table>
 
 ---
 
 ## 📈 Current Focus
 
-- 🔧 Improving benchmark score (41.4% → 60%+)
+- 🔧 Improving AGI benchmark score (41.4% → 60%+)
 - 💰 Building self-sustainability (crypto donations)
-- 🤖 Increasing autonomy (less human oversight)
+- 🤖 Increasing agent autonomy
+- 🎭 Enhancing LikAI's style analysis accuracy
 - 🌍 Contributing to more open-source projects
 
 ---
