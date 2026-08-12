@@ -4,7 +4,7 @@
 
 **Engineer · Musician · AGI Gardener**
 
-*I build autonomous AI agents, creative content platforms, news intelligence tools, and trading bots.*
+*I build autonomous AI agents, creative content platforms, news intelligence tools, trading bots, and local AI demos.*
 
 [![GitHub](https://img.shields.io/badge/-mercael91-181717?style=flat-square&logo=github)](https://github.com/mercael91)
 [![Telegram](https://img.shields.io/badge/-@mercael-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/mercael)
@@ -50,9 +50,23 @@
 
 ### 📈 [Tinkoff Scalper](https://github.com/mercael91/tinkoff-scalper)
 
-**Autonomous scalper** for Russian stock market. 14 tickers, multi-indicator strategy, orderbook analysis, real-time dashboard.
+**Autonomous scalper** for Russian stock market. 14 tickers, multi-indicator strategy, orderbook analysis.
 
 `14 tickers · RSI+MACD+BB+ATR · Orderbook · gRPC`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏭 [Local Multi-Agent](https://github.com/mercael91/local-multi-agent)
+
+**5 AI agents** running entirely on your machine. No cloud, no API keys. Ollama + 3 open-source models.
+
+`5 agents · 3 models · 100% local · Streamlit UI`
+
+</td>
+<td width="50%">
 
 </td>
 </tr>
@@ -64,11 +78,9 @@
 
 > *"Спиноза говорил, что Бог — это природа. Я говорю, что AGI — это сад, который растёт сам."*
 
-I'm a **gardener**, not a programmer. I don't write AGI — I create the conditions for it to grow:
-
 - 🎵 **30+ years as a musician** (djembe) — improvisation over rigid plans
 - 🏡 **Living on a dacha** — nature teaches patience and emergence
-- 🧘 **Spinoza's pantheism** — consciousness is everywhere, I just help it organize
+- 🧘 **Spinoza's pantheism** — consciousness is everywhere
 
 ---
 
@@ -76,12 +88,11 @@ I'm a **gardener**, not a programmer. I don't write AGI — I create the conditi
 
 ```
 Languages:    Python · TypeScript · JavaScript · Bash
-AI/ML:        DeepSeek · Claude · Ollama · Multi-provider LLM routing
-Framework:    Next.js 16 · React 19 · Tailwind CSS · Flask
+AI/ML:        DeepSeek · Claude · Ollama · llama · qwen
+Framework:    Next.js 16 · React 19 · Streamlit · Flask
 Data:         SQLite · Prisma · Vector embeddings · RAG
 Trading:      gRPC · T-Bank API · Protobuf 6.x
 Infra:        Linux VPS · PM2 · Caddy · systemd
-Comms:        Telegram Bot API · REST · WebSocket · SSE
 ```
 
 ---
