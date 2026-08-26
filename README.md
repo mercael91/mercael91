@@ -23,7 +23,7 @@
 
 **Autonomous AI agent** that scans open-source repos, generates fixes, and submits PRs without human intervention.
 
-`71 modules · 25 merged PRs · 14 repos · 10 LLM providers`
+`142 modules · 25 merged PRs · 14 repos · 10 LLM providers`
 
 </td>
 <td width="50%">
