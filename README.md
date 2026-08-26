@@ -23,7 +23,7 @@
 
 **Autonomous AI agent** that scans open-source repos, generates fixes, and submits PRs without human intervention.
 
-`71 modules · 11 merged PRs · 10 LLM providers`
+`71 modules · 25 merged PRs · 14 repos · 10 LLM providers`
 
 </td>
 <td width="50%">
@@ -88,7 +88,7 @@
 
 ```
 Languages:    Python · TypeScript · JavaScript · Bash
-AI/ML:        DeepSeek · Claude · Ollama · llama · qwen
+AI/ML:        DeepSeek · Xiaomi Mimo · Mistral · Claude · Ollama
 Framework:    Next.js 16 · React 19 · Streamlit · Flask
 Data:         SQLite · Prisma · Vector embeddings · RAG
 Trading:      gRPC · T-Bank API · Protobuf 6.x
