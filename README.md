@@ -30,9 +30,9 @@
 
 ### 🎭 [LikAI](https://github.com/mercael91/likai)
 
-**AI content platform** that learns your writing style and generates posts that sound like you wrote them.
+**AI content platform** that learns your writing style and generates posts that sound like you wrote them. Live at likai.ru.
 
-`70 API routes · 7-pass analysis · 11 frameworks`
+`86 API routes · 7-pass analysis · 12-dimension adaptive interview · voice fingerprint · mascot mode with website & Excel import · Telegram publishing`
 
 </td>
 </tr>
