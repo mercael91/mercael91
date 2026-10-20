@@ -68,6 +68,12 @@
 </td>
 <td width="50%">
 
+### 🧪 [Imitester](https://github.com/mercael91/imitester)
+
+**Self-healing E2E testing skill** for AI agents: drives a visible browser, walks every section, catches 4xx/5xx and JS errors, localizes 5xx through server logs, and reports JSON.
+
+`visible Playwright · 7 selector strategies · 8 check levels · streaming-aware waits · JSON report · self-test 8/8 · MIT`
+
 </td>
 </tr>
 </table>
