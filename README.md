@@ -76,6 +76,17 @@
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### ⚖️ [Iterative Debate](https://github.com/mercael91/iterative-debate)
+
+**Decision-verification skill** for AI agents: models from *different* families argue one question until they converge, then a ballot — or an independent judge — picks exactly one action, and the run leaves an auditable transcript.
+
+`stdlib-only driver · 3 model families · fixed reply format · 4-message window · budget ladder 700→1600→4000 · vote or judge · 20 RPM pacing · served-model audit · MIT`
+
+</td>
+</tr>
 </table>
 
 ---
@@ -94,7 +105,7 @@
 
 ```
 Languages:    Python · TypeScript · JavaScript · Bash
-AI/ML:        DeepSeek · Xiaomi Mimo · Mistral · Claude · Ollama
+AI/ML:        DeepSeek · GLM (z.ai) · Xiaomi Mimo · Mistral · Claude · Ollama
 Framework:    Next.js 16 · React 19 · Streamlit · Flask
 Data:         SQLite · Prisma · Vector embeddings · RAG
 Trading:      gRPC · T-Bank API · Protobuf 6.x
